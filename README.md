@@ -1,4 +1,4 @@
-# ain212-final-project
+# ain212-exoplanet-classifier
 **This is an exoplanet classifier for the final project of AIN212 data science course. Publicly accessible data from NASA's exoplanet archive were used in the training and testing of the model.**
 
 ### Conclusion
