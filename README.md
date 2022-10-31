@@ -1,7 +1,7 @@
-# ain214-final-project
+# ain212-exoplanet-classifier
 **This is an exoplanet classifier for the final project of AIN212 data science course. Publicly accessible data from NASA's exoplanet archive were used in the training and testing of the model.**
 
-### Conclusion
+### Overview of This Project
 
 In this report, we have trained two classifier models, namely a kNN classifier and a logistic classifier on NASA's Kepler Objects of Interest (KOI) datasets. The logistic classifier outperformed the kNN classifier by around 5% in most metrics and has an overall accuracy of 0.83, and an AUC of 0.90, which is to show that it is indeed a very successful model. We can now say that our logistic classifier can very skillfully determine whether an observed Kepler object is an exoplanet or not with great certainty, given 20 variables about that certain object of course.
 
